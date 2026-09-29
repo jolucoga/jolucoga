@@ -1,17 +1,17 @@
-# ¡Hola! Soy Luis 👋
+# Hi there! I'm Luis 👋
 
 **IT Infrastructure Specialist & SysAdmin | DevOps Enthusiast**
 
-Especialista en infraestructura TI con más de 25 años de experiencia gestionando entornos empresariales. Enfocado en la administración avanzada de sistemas Linux, orquestación de servidores, automatización de procesos y la transición hacia la nube con arquitectura DevOps.
+IT Infrastructure Specialist with over 25 years of experience managing enterprise environments. Specialized in advanced Linux systems administration, server orchestration, process automation, and cloud adoption through DevOps practices.
 
 ---
 
-### 📬 Conéctate conmigo
+### 📬 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/luis-corona-66812045" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:luis.corona@elchicodeit.com" target="_blank">
+  <a href="mailto:joluco.d.1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/LuisCorona" target="_blank">
@@ -21,9 +21,9 @@ Especialista en infraestructura TI con más de 25 años de experiencia gestionan
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Tools
 
-#### **Infraestructura, DevOps & Linux**
+#### **Infrastructure, DevOps & Linux**
 <p align="left">
   <img src="https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -35,7 +35,7 @@ Especialista en infraestructura TI con más de 25 años de experiencia gestionan
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-#### **Entorno de Trabajo & Desarrollo**
+#### **Development & Workspace**
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -43,7 +43,7 @@ Especialista en infraestructura TI con más de 25 años de experiencia gestionan
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### **Monitoreo & Automatización Operativa**
+#### **Monitoring & Operational Automation**
 <p align="left">
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -51,32 +51,32 @@ Especialista en infraestructura TI con más de 25 años de experiencia gestionan
 
 ---
 
-### 🎓 Cursos y Certificaciones en Proceso
+### 🎓 Courses & Certifications in Progress
 
-Actualmente reforzando mi perfil técnico en Cloud Computing, Infraestructura como Código (IaC) y Automatización Avanzada:
+Currently advancing my technical expertise in Cloud Computing, Infrastructure as Code (IaC), and Automation:
 
-- 🐧 **Linux Bash Shell Scripting Through Real-Life Examples**: Automatización del sistema operativo y creación de herramientas personalizadas.
-- 🏗️ **Terraform & Ansible**: Aprovisionamiento de infraestructura como código e integración de gestión de configuración.
-- ☁️ **AWS Certified Cloud Practitioner**: Principios de arquitectura en la nube, seguridad y servicios esenciales de AWS.
-- 🐍 **Complete Python Bootcamp**: Programación orientada a objetos, scripting avanzado y lógica de automatización.
-
----
-
-### 🚀 Enfoque Profesional & Homelab
-
-- 🛠️ **Infraestructura como Código (IaC)**: Creación de entornos reproducibles combinando **Terraform** y **Ansible**.
-- 🐧 **Administración de Servidores**: Operación de sistemas **RHEL** y **Ubuntu Server**, gestión de almacenamiento con LVM y automatización de tareas operativas.
-- 🐋 **Contenedores & Homelab**: Despliegue de servicios mediante **Docker**, reverse proxies con **Traefik** y túneles seguros para pruebas e integración continua.
+- 🐧 **Linux Bash Shell Scripting Through Real-Life Examples**: OS automation and custom administrative tool development.
+- 🏗️ **Terraform & Ansible**: Infrastructure provisioning as code and configuration management integration.
+- ☁️ **AWS Certified Cloud Practitioner**: Cloud architecture principles, security, and core AWS services.
+- 🐍 **Complete Python Bootcamp**: Object-oriented programming, advanced scripting, and automation logic.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🚀 Professional Focus & Homelab
+
+- 🛠️ **Infrastructure as Code (IaC)**: Building reproducible environments by combining **Terraform** and **Ansible**.
+- 🐧 **Systems Administration**: Managing **RHEL** and **Ubuntu Server** environments, storage management via LVM, and operational task automation.
+- 🐋 **Containers & Homelab**: Deploying containerized services with **Docker**.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jolucoga&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jolucoga&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jolucoga&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jolucoga&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jolucoga&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jolucoga&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
